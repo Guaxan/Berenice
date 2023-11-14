@@ -1,0 +1,26 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/nathangrima/Desktop/PROJETO FACULDADE/nathangrima.c/BERENICE/output/berenicev321'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000B34, symSize: 0x290 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _produto, symObjAddr: 0x68F0, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0xD9, offset: 0xD9, size: 0x8, addend: 0x0, symName: _contador, symObjAddr: 0x68F8, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offsetInCU: 0xFB, offset: 0xFB, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000B34, symSize: 0x290 }
+  - { offsetInCU: 0x13F, offset: 0x13F, size: 0x8, addend: 0x0, symName: _submenuprodutos, symObjAddr: 0x290, symBinAddr: 0x100000DC4, symSize: 0x234 }
+  - { offsetInCU: 0x163, offset: 0x163, size: 0x8, addend: 0x0, symName: _submenuvendas, symObjAddr: 0x4E0, symBinAddr: 0x100001014, symSize: 0xD8 }
+  - { offsetInCU: 0x187, offset: 0x187, size: 0x8, addend: 0x0, symName: _cadastrarproduto, symObjAddr: 0x5B8, symBinAddr: 0x1000010EC, symSize: 0x46C }
+  - { offsetInCU: 0x1B9, offset: 0x1B9, size: 0x8, addend: 0x0, symName: _verificacao, symObjAddr: 0xA24, symBinAddr: 0x100001558, symSize: 0x90 }
+  - { offsetInCU: 0x200, offset: 0x200, size: 0x8, addend: 0x0, symName: _bubblesort, symObjAddr: 0xAB4, symBinAddr: 0x1000015E8, symSize: 0x178 }
+  - { offsetInCU: 0x26F, offset: 0x26F, size: 0x8, addend: 0x0, symName: _exibir, symObjAddr: 0xC2C, symBinAddr: 0x100001760, symSize: 0xF4 }
+  - { offsetInCU: 0x2A3, offset: 0x2A3, size: 0x8, addend: 0x0, symName: _atualizarproduto, symObjAddr: 0xD20, symBinAddr: 0x100001854, symSize: 0x3E8 }
+  - { offsetInCU: 0x2E7, offset: 0x2E7, size: 0x8, addend: 0x0, symName: _excluirproduto, symObjAddr: 0x1108, symBinAddr: 0x100001C3C, symSize: 0x26C }
+  - { offsetInCU: 0x348, offset: 0x348, size: 0x8, addend: 0x0, symName: _salvarprodutos, symObjAddr: 0x1374, symBinAddr: 0x100001EA8, symSize: 0x88 }
+  - { offsetInCU: 0x36E, offset: 0x36E, size: 0x8, addend: 0x0, symName: _lerprodutos, symObjAddr: 0x13FC, symBinAddr: 0x100001F30, symSize: 0x198 }
+  - { offsetInCU: 0x3A3, offset: 0x3A3, size: 0x8, addend: 0x0, symName: _realizarvenda, symObjAddr: 0x1594, symBinAddr: 0x1000020C8, symSize: 0x344 }
+  - { offsetInCU: 0x414, offset: 0x414, size: 0x8, addend: 0x0, symName: _pagamentoavista, symObjAddr: 0x18D8, symBinAddr: 0x10000240C, symSize: 0x2EC }
+  - { offsetInCU: 0x476, offset: 0x476, size: 0x8, addend: 0x0, symName: _pagamentocartao, symObjAddr: 0x1BC4, symBinAddr: 0x1000026F8, symSize: 0x1B4 }
+  - { offsetInCU: 0x4C9, offset: 0x4C9, size: 0x8, addend: 0x0, symName: _cupomfiscal, symObjAddr: 0x1D78, symBinAddr: 0x1000028AC, symSize: 0x3EC }
+  - { offsetInCU: 0x5BA, offset: 0x5BA, size: 0x8, addend: 0x0, symName: _relatorio, symObjAddr: 0x2164, symBinAddr: 0x100002C98, symSize: 0x1B8 }
+  - { offsetInCU: 0x60C, offset: 0x60C, size: 0x8, addend: 0x0, symName: _salvarprodutostxt, symObjAddr: 0x231C, symBinAddr: 0x100002E50, symSize: 0x160 }
+  - { offsetInCU: 0x64F, offset: 0x64F, size: 0x8, addend: 0x0, symName: _lerprodutostxt, symObjAddr: 0x247C, symBinAddr: 0x100002FB0, symSize: 0x1C8 }
+...
