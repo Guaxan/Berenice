@@ -813,4 +813,5 @@ void bubblesort(estprod *produtos)
             }
         }
     }
-}
+    printf("teste");
+}   
