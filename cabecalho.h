@@ -33,6 +33,6 @@ void pagamentoavista(estprod **produto, int *contador, float total); // Processa
 void pagamentocartao(estprod **produto, int *contador, float total); // Processar pagamento com cartão
 void cupomfiscal(estprod **produto, int *contador, float novototal); // Gerar um cupom fiscal
 void relatorio(estprod **produto, int *contador);                    // Gerar um relatório de vendas
-void bubblesort(estprod **produto, int *contador);
+void bubblesort(estprod **produto, int *contador);                   // Ordenacão
 
 #endif // FUNCAO_H_INCLUDED
