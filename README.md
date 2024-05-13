@@ -16,11 +16,11 @@ O sistema é composto por três arquivos principais:
 
 Para compilar e executar o programa, você pode usar um compilador C compatível, como GCC. Aqui está um exemplo de como compilar o programa:
 
-gcc main.c funcoes.c -o sistema_vendas
+`gcc main.c funcoes.c -o sistema_vendas`
 
 Isso irá compilar os arquivos `main.c` e `funcoes.c` e gerar um executável chamado `sistema_vendas`. Em seguida, você pode executar o programa usando o seguinte comando:
 
-./sistema_vendas
+`./sistema_vendas`
 
 ## Tecnologias Utilizadas
 
