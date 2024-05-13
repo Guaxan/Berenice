@@ -1,4 +1,4 @@
-# Sistema de Vendas - Berenice V3
+# Sistema de Vendas - Berenice
 
 Este é um sistema de vendas desenvolvido em C. Ele permite cadastrar produtos, realizar vendas, gerar relatórios de vendas e emitir cupons fiscais.
 
