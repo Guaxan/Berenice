@@ -12,12 +12,17 @@ O sistema é composto por três arquivos principais:
 
 3. `cabecalho.h`: O arquivo de cabeçalho contém a definição da estrutura `estprod` para representar os produtos, bem como a declaração de todas as funções presentes em `funcoes.c`. Ele é incluído em `main.c` e `funcoes.c` para garantir que todas as funções e estruturas sejam conhecidas em ambos os arquivos.
 
-## Tecnologias Utilizadas
-
-- Linguagem de Programação: C
-- Bibliotecas: Standard C Library (stdio.h, stdlib.h, string.h, time.h)
-
 ## Compilação e Execução
 
 Para compilar e executar o programa, você pode usar um compilador C compatível, como GCC. Aqui está um exemplo de como compilar o programa:
 
+gcc main.c funcoes.c -o sistema_vendas
+
+Isso irá compilar os arquivos `main.c` e `funcoes.c` e gerar um executável chamado `sistema_vendas`. Em seguida, você pode executar o programa usando o seguinte comando:
+
+./sistema_vendas
+
+## Tecnologias Utilizadas
+
+- Linguagem de Programação: C
+- Bibliotecas: Standard C Library (stdio.h, stdlib.h, string.h, time.h)
